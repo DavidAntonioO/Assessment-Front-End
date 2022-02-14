@@ -1,0 +1,10 @@
+Check out the API tha we're going to use for the questions so I found this open trivia API 
+as you can see we can configure it we can select which category we want I'm going to use the ANA category
+Wwe can select difficulty I'm not going to implement to select difficulty in the UI but I'm going to implemment
+In the app itself so you can change it in the code and we can also change to have multiple choice or true o false
+We're going to have multiple choice and we're going to use the default encoding and if we click generate API url
+It should generate the url for us up here so this ir the url and this will give us a JSON response
+With the questions and the answers as we just get this object it will be really is it a sheet if you want to do that
+Because you can always check the questions in the code, have to create the proxy API or already use an API tha
+Won't show us the answers in the client so we have to make a request to a server and then it will get a response with
+Answers and stuff like that but in our case for a very simple implemntation of a quiz
