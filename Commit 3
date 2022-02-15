@@ -1,0 +1,11 @@
+And then we need to give it easy medium or hard and if you remember in the API dot TS I'll we created this enum here
+That I also export so that means that we can import tis one in the app dot TSX file so I'm going to mark
+This one with types and I['m import difficulty from / API like so and that means that we can use it here 
+So in our console log 
+
+Now it's just a matter of specifying this here category this one is going to be screen we have the correct underscore
+answer and this one is going to be an array of strings so screen and an array we have the question
+The we have the type it's also going to be string but one thing i want to do here also because
+I want to modify the stay that I get back here because in this case we have the correct answer in a separate property
+and we have the incorrect answers in a separate array I want to have them in the same array because what I want
+to do later is that I watn to map through this array
