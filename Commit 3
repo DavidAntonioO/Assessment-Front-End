@@ -1,0 +1,4 @@
+Before the create a main dot s Css alright, now that we have that file open, we've got our extension installed
+So now you should see this watch at the bottom, so go ahead and click on that.
+And you're going to see an output here files now, and it is compiling and generating them automatically
+And now it's watching for us to save the file again. And when we save it, it's going to automatically recompile and createthar Css file
