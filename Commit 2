@@ -1,0 +1,27 @@
+Before we create our sass files, it's important to understand that there are twos syntaxes supported by sass
+Scss Syntax
+@mixin button-base(){
+@include typography(button);
+
+display: inline-flex;
+position: relative;
+height: $button-height;
+border: none;
+vertical-align:middle;
+
+& hover{cursor:pointer;}
+
+}
+
+INDENTED SYNTAX
+@mixin button-base()
+@include typography(button)
+
+display: inline-flex
+position:relative
+height:$button-height
+border: none
+vertical-align: middle
+
+&: hover
+cursosr: pointer
