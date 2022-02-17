@@ -1,0 +1,4 @@
+Absolute units, susch as px, tie to physical units of length.Absolute length units approximate the actual measurement on a screen
+Relative units, such as em, are relative to another length value, for example
+"em" is based on the size of an element's font
+if the font size is 16px 1em would equal 16px, 0.5em would equal 8px
