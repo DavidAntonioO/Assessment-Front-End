@@ -1,0 +1,12 @@
+What is map?
+You could compare maps to arrays, "maps" are list of key value pairs.
+So I'll create one here. So we'll define a variable. And we'll name it font weights. And then to to define a map
+We start with parentheses. So answer a key, so we'll 
+
+Example:
+$font-weights:(
+"regular": 400,
+"medium": 500,
+"bold": 700
+);
+
