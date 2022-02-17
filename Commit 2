@@ -1,0 +1,7 @@
+Way that it's displayed on the page let's talk about Css usage so there's three methods to use
+1.- Inline: and just dont' do it even though you're able to do this you shouldn't so inline would be in the HTL markup
+so you'd have your div and then a style attribute and then a style and then within the style you have your Css
+2.- Internal: Can only be used used in one file
+Makes file larger
+3.-External: Keeps styles separate form HTML
+Improved readability and reusability
