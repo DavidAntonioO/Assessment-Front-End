@@ -1,0 +1,11 @@
+Css Selector Diagram
+
+p { backroud: black; color: white;}
+
+p = Selector
+background = Property
+black = Value
+; = Declaration separator or delcaration terminator
+color = Property
+white = Which is the value the property
+
