@@ -1,0 +1,8 @@
+Less is basically a Css pre-compile er extends the normal Css syntax and it adds a bunch of new features 
+Include for instance the bility to use variables in your Css
+ There's a bunch of different ways to get less up and running there's programs which is a GUI program
+ Install less using NPM our node package manager
+ 
+ The command for the installed less is
+ "npm install less-g"
+ 
