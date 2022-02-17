@@ -1,0 +1,8 @@
+What is Sass?
+Is a Css extension language, and gives your Css superpowers, once you see how easy it is to writeand how logical and organized it can be
+You never write plain Css again, you'll see what I mean in a minute
+You need to write Css:
+1.-SetUp(Visual Studio Code) whit extension (Live Sass Compiler)
+Now rhese settings are a apersonal preferece, by default, it will compile your Css and put it into the same directory
+
+
